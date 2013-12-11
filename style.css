@@ -1,0 +1,37 @@
+.login{
+	margin: 20% auto auto auto;
+	width: 210px;
+	padding: 5px 5px 5px 5px;
+	background-color: #C8DEE8;
+}
+
+.changepass{
+	margin: 20% auto auto auto;
+	width: 210px;
+	padding: 5px 5px 5px 5px;
+	background-color: #C8DEE8;
+}
+
+body{
+	background-color: #366;
+}
+
+#container{
+	width: 800px;
+	background-color: #C8DEE8;
+	margin: 0 auto 0 auto;
+	padding: 10px;
+}
+
+.centered{
+	text-align:center;
+}
+
+#links{
+	margin-left:150px;
+}
+
+table{
+	margin: 0% auto 0% auto;
+	width: 400px;
+}
